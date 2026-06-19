@@ -16,6 +16,15 @@ This is a full stack Application to allow volunteers to register themselves with
 - Admin Panel : https://naye-pankh-foundation-volunteer-reg-olive.vercel.app/
 - Volunteer Panel : https://naye-pankh-foundation-volunteer-reg-two.vercel.app/
 
+### Tech Stack:
+- Admin Panel : NextJs with typescript
+- Volunteer Panel : NextJs with typescript
+- Backend Server : Express and Node
+- Database : MongoDB (no-sql)
+- ODM : Mongooose
+- API : RESTful APIs
+
+
 ### Connect with me :  
 
 - Linkedin : https://www.linkedin.com/in/vivek-patel2004/
