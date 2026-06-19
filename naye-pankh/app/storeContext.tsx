@@ -5,7 +5,7 @@ import toast from "react-hot-toast";
 const storeContext = createContext<any>(null);
 
 export const StoreContextProvider = ({children}:{children:React.ReactNode})=>{
-    const server_url = "http://localhost:5050";
+    const server_url = "https://naye-pankh-foundation-volunteer.onrender.com";
 
     const successToast = (msg:string)=>{
         return toast.success(msg);
